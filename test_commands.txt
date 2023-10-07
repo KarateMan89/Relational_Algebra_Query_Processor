@@ -1,0 +1,12 @@
+print(Student)
+(Student)project[name, age]
+(Student)select[name=John]
+(Enrollment)select[course=Math101]
+(Student)U(Student2)
+(Student)&(Student2)
+(Student)-(Student2)
+(Student)join[name=name](Enrollment)
+(Student)join-[name=name](Enrollment)
+(Student)-join[name=name](Enrollment)
+(Student)-join-[name=name](Enrollment)
+(Student)x(Enrollment)
