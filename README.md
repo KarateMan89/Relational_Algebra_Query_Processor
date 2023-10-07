@@ -1,6 +1,9 @@
 Relational Algebra Query Processor
 A command-line tool implemented in Python that allows users to perform relational algebra operations like set operations, projections, and joins on tables.
 
+YouTube explanation:
+https://youtu.be/qb_AOPo0_R4
+
 Features
 Unary Operations: Supports projection (project) and selection (select) operations.
 Set Operations: Includes union (U), intersection (&), and difference (-) operations.
