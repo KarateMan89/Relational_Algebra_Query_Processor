@@ -10,9 +10,6 @@ Pretty Printing: Displays tables in a user-friendly format.
 
 Getting Started
 
-Clone the repository:
-git clone https://github.com/YOUR_USERNAME/RelationalAlgebraQueryProcessor.git
-
 Navigate to the project directory:
 cd RelationalAlgebraQueryProcessor
 
